@@ -1,3 +1,4 @@
-# study-git
-Git study repository
-<h1>Hello World!</h1>
+<h1 style="color:blue">study-git</h1>
+<span>Git study repository</span>
+
+<span style="color:#444">This repository is git study repository</span>
