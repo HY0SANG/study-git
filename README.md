@@ -1,4 +1,11 @@
-<h1 style="color:blue">study-git</h1>
-<span>Git study repository</span>
+# 제목
+  # 제목1
+  ```html
+  # 제목1
+  ```
 
-<span style="color:#444">This repository is git study repository</span>
+  ## 제목2 `## 제목2`
+
+  ### 제목3 `### 제목3`
+
+# 목록
